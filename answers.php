@@ -12,3 +12,19 @@ Question D
 
 Question E
 4. krsort
+
+Question F
+5. 130
+
+Question G
+
+Question H
+
+Question I
+4. Aucune des réponses ci-dessus
+
+Question J
+2. 1
+
+Question L
+3. 1234
