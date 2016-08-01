@@ -17,6 +17,7 @@ Question F
 5. 130
 
 Question G
+1. Oui
 
 Question H
 4. _*123*
@@ -35,5 +36,12 @@ Question L
 1. 2
 
 Question M
+2. unbind('cliquer.salut.bonjour')
 
 Question N
+jQuery(document).ready(
+	function()
+	{
+		console.log($('.myDiv').html());
+	}
+);
