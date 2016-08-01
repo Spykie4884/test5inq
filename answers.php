@@ -19,6 +19,8 @@ Question F
 Question G
 
 Question H
+4. _*123*
+5. _*123
 
 Question I
 4. Aucune des réponses ci-dessus
